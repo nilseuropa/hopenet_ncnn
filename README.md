@@ -3,7 +3,7 @@
 
 **This implementation** is based on [Tencent NCNN](https://github.com/Tencent/ncnn) a high-performance neural network inference computing framework optimized for mobile platforms.
 
-**Original PyTorch implementation: ** https://github.com/natanielruiz/deep-head-pose
+**Original PyTorch implementation:** https://github.com/natanielruiz/deep-head-pose
 
 ### Build ###
 
